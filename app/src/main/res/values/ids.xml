@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="ll" type="id" />
+    <item name="DisplayQuestion" type="id" />
+    <item name="txtQuestion" type="id" />
+    <item name="numberTextView" type="id" />
+</resources>
