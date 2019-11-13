@@ -26,10 +26,10 @@ public class MainActivity extends AppCompatActivity {
 
     public void dicebutton(View view) {
 
-
+        // add a comment
         TextView tv = this.findViewById(R.id.numberTextView);
 
-
+        // test again
         Random r = new Random();
 
         int number = r.nextInt(10);
